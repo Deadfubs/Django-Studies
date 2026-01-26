@@ -10,7 +10,7 @@ ul {
     flex-direction: column;
     flex-wrap: wrap;
     height: 37rem;
-    background-color: wheat;
+    background-color: white;
 }
 
 li {
@@ -38,5 +38,4 @@ li a:active {
 
 body {
     margin: 0;
-    background-color: black;
 }
